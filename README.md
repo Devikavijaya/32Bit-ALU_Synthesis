@@ -41,11 +41,12 @@ used.
 
 #### Area report:
 
-![Screenshot (234)](https://github.com/user-attachments/assets/f916d596-541d-4293-a938-93cb750cc222)
+![WhatsApp Image 2024-11-26 at 07 36 17_d5b5b9fc](https://github.com/user-attachments/assets/f640144d-7c6d-49cc-b787-4d9326a70b61)
+
 
 #### Power Report:
 
-![Screenshot (235)](https://github.com/user-attachments/assets/9926e5a3-eec3-487d-b6cb-f13cfcc1802c)
+![WhatsApp Image 2024-11-26 at 07 36 36_48103fdd](https://github.com/user-attachments/assets/57a57b9c-2b84-4e7f-853a-a0ff27a6a3e4)
 
 #### Result: 
 
